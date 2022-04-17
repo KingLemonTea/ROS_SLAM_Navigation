@@ -1,0 +1,2 @@
+diff_drive_bot
+-DCATKIN_DEVEL_PREFIX=/home/parallels/Desktop/pro1/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/Desktop/pro1/install -G Unix Makefiles

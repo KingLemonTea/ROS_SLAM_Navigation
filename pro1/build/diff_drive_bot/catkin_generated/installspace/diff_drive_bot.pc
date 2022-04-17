@@ -1,0 +1,8 @@
+prefix=/home/parallels/Desktop/pro1/install
+
+Name: diff_drive_bot
+Description: Description of diff_drive_bot
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
